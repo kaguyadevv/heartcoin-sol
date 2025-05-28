@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/heartcoin-sol/static/css/main.6bd70b0d.css",
+    "main.js": "/heartcoin-sol/static/js/main.27ecef06.js",
+    "index.html": "/heartcoin-sol/index.html",
+    "main.6bd70b0d.css.map": "/heartcoin-sol/static/css/main.6bd70b0d.css.map",
+    "main.27ecef06.js.map": "/heartcoin-sol/static/js/main.27ecef06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bd70b0d.css",
+    "static/js/main.27ecef06.js"
+  ]
+}
